@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/cinemaxx1-tests/static/css/main.7d704c62.chunk.css",
+    "main.js": "/cinemaxx1-tests/static/js/main.923e51fd.chunk.js",
+    "main.js.map": "/cinemaxx1-tests/static/js/main.923e51fd.chunk.js.map",
+    "runtime-main.js": "/cinemaxx1-tests/static/js/runtime-main.11d42cb4.js",
+    "runtime-main.js.map": "/cinemaxx1-tests/static/js/runtime-main.11d42cb4.js.map",
+    "static/css/2.a4f880aa.chunk.css": "/cinemaxx1-tests/static/css/2.a4f880aa.chunk.css",
+    "static/js/2.38beaaa9.chunk.js": "/cinemaxx1-tests/static/js/2.38beaaa9.chunk.js",
+    "static/js/2.38beaaa9.chunk.js.map": "/cinemaxx1-tests/static/js/2.38beaaa9.chunk.js.map",
+    "static/js/3.36ab5cc9.chunk.js": "/cinemaxx1-tests/static/js/3.36ab5cc9.chunk.js",
+    "static/js/3.36ab5cc9.chunk.js.map": "/cinemaxx1-tests/static/js/3.36ab5cc9.chunk.js.map",
+    "static/css/4.c0a18c3b.chunk.css": "/cinemaxx1-tests/static/css/4.c0a18c3b.chunk.css",
+    "static/js/4.bc040273.chunk.js": "/cinemaxx1-tests/static/js/4.bc040273.chunk.js",
+    "static/js/4.bc040273.chunk.js.map": "/cinemaxx1-tests/static/js/4.bc040273.chunk.js.map",
+    "static/css/5.8ac4cbdb.chunk.css": "/cinemaxx1-tests/static/css/5.8ac4cbdb.chunk.css",
+    "static/js/5.f2628f6b.chunk.js": "/cinemaxx1-tests/static/js/5.f2628f6b.chunk.js",
+    "static/js/5.f2628f6b.chunk.js.map": "/cinemaxx1-tests/static/js/5.f2628f6b.chunk.js.map",
+    "static/js/6.f4c26836.chunk.js": "/cinemaxx1-tests/static/js/6.f4c26836.chunk.js",
+    "static/js/6.f4c26836.chunk.js.map": "/cinemaxx1-tests/static/js/6.f4c26836.chunk.js.map",
+    "index.html": "/cinemaxx1-tests/index.html",
+    "static/css/2.a4f880aa.chunk.css.map": "/cinemaxx1-tests/static/css/2.a4f880aa.chunk.css.map",
+    "static/css/4.c0a18c3b.chunk.css.map": "/cinemaxx1-tests/static/css/4.c0a18c3b.chunk.css.map",
+    "static/css/5.8ac4cbdb.chunk.css.map": "/cinemaxx1-tests/static/css/5.8ac4cbdb.chunk.css.map",
+    "static/css/main.7d704c62.chunk.css.map": "/cinemaxx1-tests/static/css/main.7d704c62.chunk.css.map",
+    "static/js/2.38beaaa9.chunk.js.LICENSE.txt": "/cinemaxx1-tests/static/js/2.38beaaa9.chunk.js.LICENSE.txt",
+    "static/media/1.40699375.jpg": "/cinemaxx1-tests/static/media/1.40699375.jpg",
+    "static/media/2.4713b6ca.jpg": "/cinemaxx1-tests/static/media/2.4713b6ca.jpg",
+    "static/media/3.a7f62449.jpg": "/cinemaxx1-tests/static/media/3.a7f62449.jpg",
+    "static/media/4.139f22cc.jpg": "/cinemaxx1-tests/static/media/4.139f22cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11d42cb4.js",
+    "static/css/2.a4f880aa.chunk.css",
+    "static/js/2.38beaaa9.chunk.js",
+    "static/css/main.7d704c62.chunk.css",
+    "static/js/main.923e51fd.chunk.js"
+  ]
+}
