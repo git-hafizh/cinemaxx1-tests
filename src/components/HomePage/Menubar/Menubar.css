@@ -1,0 +1,88 @@
+.main-menubar{
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+li {
+  list-style: none;
+  font-size: 14px;
+}
+
+.link-menu::before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+}
+
+.link-menu {
+  line-height: 24px;
+  color: #006563;
+  margin: 0 40px;
+}
+
+.link-menu:hover {
+  color: #cfab7a;
+  transition: all 0.3s ease-in-out;
+}
+
+.link-menu.now-playing::before {
+  background-image: url(../../../assets/icons.png);
+  background-position: -24px 0;
+  margin-left: -25px;
+  margin-bottom: -10px;
+}
+
+.link-menu.upcoming::before {
+  background-image: url(../../../assets/icons.png);
+  background-position: -48px 0;
+  margin-left: -25px;
+  margin-bottom: -10px;
+}
+
+.link-menu.theaters::before {
+  background-image: url(../../../assets/icons.png);
+  background-position: -72px 0;
+  margin-left: -25px;
+  margin-bottom: -10px;
+}
+
+.link-menu.promotions::before {
+  background-image: url(../../../assets/icons.png);
+  background-position: -96px 0;
+  margin-left: -25px;
+  margin-bottom: -10px;
+}
+
+.link-menu.info::before {
+  background-image: url(../../../assets/icons.png);
+  background-position: -120px 0;
+  margin-left: -10px;
+  margin-top: 9px;
+}
+
+.dropdown-toggle {
+  color: #006563;
+}
+
+.dropdown-toggle:hover {
+  color: #cfab7a;
+  transition: all 0.3s ease-in-out;
+}
+
+.partner {
+  float: right;
+}
+
+.partner{
+  float: right;
+  border-left: 1px solid #c0c0c2;
+  height: 38px;
+  margin-left: 50px;
+}
+
+.partner a{
+    margin: 0 30px;
+}

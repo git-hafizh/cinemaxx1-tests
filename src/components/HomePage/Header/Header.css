@@ -1,0 +1,7 @@
+.form-inline {
+    margin-left: auto;
+}
+
+.form-inline .form-control{
+    border-radius: 15px;
+}

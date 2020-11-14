@@ -1,0 +1,45 @@
+.soon-list{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.soon-title{
+    font-weight: 600;
+    font-size: 19px;
+    width: 300px;
+}
+
+a .soon-title{
+    color: #2d2d2d;
+}
+
+.soon-item a:hover{
+    text-decoration: none;
+}
+
+.soon-item{
+    margin: 16px 5px;
+}
+
+.main-badge {
+    margin: 16px 15px;
+    text-align: left;
+  }
+  
+  .upcoming-badge {
+    color: #fff;
+    font-size: 16px;
+    background-color: #006563;
+    margin: 0 30px;
+    display: inline;
+    font-weight: 700;
+    padding: 4px 40px;
+    width: 100%;
+    max-width: 170px;
+  }
+
+  button{
+      margin-bottom: 25px;
+  }
